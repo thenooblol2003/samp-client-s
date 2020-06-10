@@ -10,7 +10,7 @@ setup(
     version='1.0.0',
     packages=['samp_client-ES'],
     url='https://github.com/thenooblol2003/samp-client-s',
-    license='None',
+    license='MIT',
     author='Michal Dabski',
     author_email='contact@michaldabski.com',
     install_requires=['future'],
