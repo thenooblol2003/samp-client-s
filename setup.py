@@ -12,6 +12,7 @@ setup(
     url='https://github.com/thenooblol2003/samp-client-s',
     license='MIT',
     author='Michal Dabski',
+    long_description_content_type='text/markdown',
     author_email='contact@michaldabski.com',
     install_requires=['future'],
     description='SA-MP API client for python supporting both query and RCON APIs, plus, spanish decoding support',
