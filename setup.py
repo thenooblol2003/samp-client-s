@@ -16,5 +16,5 @@ setup(
     install_requires=['future'],
     description='SA-MP API client for python supporting both query and RCON APIs, plus, spanish decoding support',
     long_description=long_description,
-    download_url='https://github.com/thenooblol2003/samp_client-ES/archive/1.0.0.tar.gz',
+    download_url='https://github.com/thenooblol2003/samp-client-s/archive/1.0.0.tar.gz',
 )
