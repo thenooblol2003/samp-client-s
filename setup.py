@@ -9,7 +9,7 @@ except:
 
 setup(
     name='query-client-silverbullet-s',
-    version='1.0.1',
+    version='1.0.2',
     packages=['samp_client-ES'],
     url='https://github.com/thenooblol2003/samp-client-s',
     download_url='https://github.com/thenooblol2003/samp-client-s/archive/1.0.1.tar.gz',
