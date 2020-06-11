@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: samp-client
-Version: 1.0.1
+Name: query-client-silverbullet-s
+Version: 1.0.2
 Summary: SA-MP API client for python supporting both query and RCON APIs
 Home-page: https://github.com/thenooblol2003/samp-client-s
 Author: Michal Dabski
 Author-email: contact@michaldabski.com
 License: MIT
-Download-URL: https://github.com/thenooblol2003/samp-client-s/archive/1.0.1.tar.gz
+Download-URL: https://github.com/thenooblol2003/samp-client-s/archive/1.0.2.tar.gz
 Description: # GTA SA-MP client 
         
         ## RCON and query client library for  Python
