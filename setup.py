@@ -8,7 +8,7 @@ except:
     long_description = ''
 
 setup(
-    name='samp-client',
+    name='query-client-silverbullet-s',
     version='1.0.1',
     packages=['samp_client-ES'],
     url='https://github.com/thenooblol2003/samp-client-s',
