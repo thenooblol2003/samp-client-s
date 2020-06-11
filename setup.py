@@ -9,10 +9,10 @@ except:
 
 setup(
     name='query-client-silverbullet-s',
-    version='1.0.2',
+    version='1.0.3',
     packages=['samp_client_ES'],
     url='https://github.com/thenooblol2003/samp-client-s',
-    download_url='https://github.com/thenooblol2003/samp-client-s/archive/1.0.2.tar.gz',
+    download_url='https://github.com/thenooblol2003/samp-client-s/archive/1.0.3.tar.gz',
     license='MIT',
     author='Michal Dabski',
     author_email='contact@michaldabski.com',
