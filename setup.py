@@ -1,21 +1,22 @@
 #!/usr/bin/env python
-from distutils.core import setup
+from setuptools import setup, Extension
+# JUST A COMMENT
+# JUST ANOTHER COMMENT
 try:
     long_description = open('README.md', 'r').read()
 except:
     long_description = ''
 
 setup(
-    name='samp_client-ES',
+    name='samp-client',
     version='1.0.0',
     packages=['samp_client-ES'],
     url='https://github.com/thenooblol2003/samp-client-s',
     license='MIT',
     author='Michal Dabski',
-    long_description_content_type='text/markdown',
     author_email='contact@michaldabski.com',
+    long_description_content_type='text/markdown',
     install_requires=['future'],
-    description='SA-MP API client for python supporting both query and RCON APIs, plus, spanish decoding support',
+    description='SA-MP API client for python supporting both query and RCON APIs',
     long_description=long_description,
-    download_url='https://github.com/thenooblol2003/samp-client-s/archive/1.0.0.tar.gz',
 )
