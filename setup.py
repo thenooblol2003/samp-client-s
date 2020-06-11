@@ -9,9 +9,10 @@ except:
 
 setup(
     name='samp-client',
-    version='1.0.0',
+    version='1.0.1',
     packages=['samp_client-ES'],
     url='https://github.com/thenooblol2003/samp-client-s',
+    download_url='https://github.com/thenooblol2003/samp-client-s/archive/1.0.1.tar.gz',
     license='MIT',
     author='Michal Dabski',
     author_email='contact@michaldabski.com',
