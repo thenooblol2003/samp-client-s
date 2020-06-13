@@ -8,14 +8,14 @@ Supported Python version 2.7, 3.4, 3.5 and 3.6
 
 ### Installation
 ```bash
-pip install samp-client-es
+pip install query-client-silverbullet-s
 ```
 
 ### Usage
 The library can be easily interfaced using a single `SampClient` class:
 
 ```python
-from samp_client.client import SampClient
+from samp_client_ES.client import SampClient
 
 with SampClient(address='localhost', port=7777) as client:
     print client.get_server_info()
@@ -31,7 +31,7 @@ with SampClient(address='localhost', port=7777, rcon_password='password') as cli
 
 Query and RCON responses are parsed into native Python structures:
 ```python
-from samp_client.client import SampClient
+from samp_client_ES.client import SampClient
 
 with SampClient(address='localhost', port=7777, rcon_password='password') as client:
     info = client.get_server_info()
